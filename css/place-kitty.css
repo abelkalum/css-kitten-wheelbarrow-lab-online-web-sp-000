@@ -1,5 +1,5 @@
 /* Select the image with a class of kitty-1 */
-<img src="kitty-1.png" alt="Paris">
+<img src="/kitty-1.png" alt="kitty-1" height="48" width="100" />
 
 /*__write_selector_here__*/ {
   position: absolute;
